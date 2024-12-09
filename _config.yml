@@ -21,14 +21,14 @@ repository               : "SuspiciousTaco/SuspiciousTacoAcademic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "chase_profile.png"
+  name             : "Quick Links"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Education and Technology Leader"
+  location         : "Tokyo, Japan"
+  employer         : "Aoba International Educational Systems"
+  uri              : "learn.aobajapan.jp"
+  email            : #
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
