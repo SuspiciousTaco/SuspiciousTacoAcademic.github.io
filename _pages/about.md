@@ -11,12 +11,16 @@ This website comprises my professional CV, portfolio, blog, and various other od
 
 If nothing else it is a convenient way for me to collate into one place materials and links to my disparate digital selves while taking ownership over the form that this content is presented in. In today's maze of social media walled gardens that's got to be worth something!
 
-This website is hosted in GitHub Pages leveraging a fork of the 
+
 
 
 About me
 ======
-Originally from Southern California, I immigrated to Japan in 2013 and have called Tokyo my home ever since. While my academic beginnings were originally in the fields of International Relations and then Economics - with parallel studies in Japanese language - my actual career began in web technologies and web development before quickly transitioning to education technology. It is from there that I have branched into various areas including academic program development, software product management, information technology management, and various leadership roles in education and education technology. While I have worked for and with higher education institutions over the past decade, my focus has remained on the K-12 education sector, particularly in international education. Outside of and sometimes in parallel to my full-time professional duties I have experience in the education non-profit sector, having helped found and operate an education innovation-focused NPO in 2020, and I also have experience in both private and non-profit consulting roles for a variety of organisations including universities, VC incubators, research institutes and others.
+Originally from Southern California, I immigrated to Japan in 2013 and have called Tokyo my home ever since. While my academic beginnings were originally in the fields of International Relations and then Economics - with parallel studies in Japanese language - my actual career began in web technologies and web development before quickly transitioning to education technology. 
+
+It is from there that I have branched into various areas including academic program development, software product management, information technology management, and various leadership roles in education and education technology. While I have worked for and with higher education institutions over the past decade, my focus has remained on the K-12 education sector, particularly in international education, and the theme of my work has revolved around education technology and - more recently - online learning.
+
+Outside of and sometimes in parallel to my full-time professional duties I have experience in the education non-profit sector, having helped found and operate an education innovation-focused NPO in 2020, and I also have experience in both private and non-profit consulting roles for a variety of organisations including universities, VC incubators, research institutes and others.
 
 As of 2025 I am currently leading the online K-12 education division of the [Aoba International Education Group](https://aoba-bbt.com/), based in Tokyo, Japan. This work involves development of a 100% online school infrastructure to support the delivery of online International Baccalaureate (IB) curriculum and programs, notably the IB Diploma Programme as part of an innovative [pilot project](https://www.ibo.org/news/news-about-ib-schools/the-ib-introduces-the-first-online-diploma-programme-pilot-in-japan/) in cooperation with the International Baccalaureate Organisation (IBO).
 
