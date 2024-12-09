@@ -9,7 +9,7 @@ redirect_from:
 
 This website comprises my professional CV, portfolio, blog, and various other odds and ends. 
 
-# It is hosted in a GitHub Pages public repository which I forked from the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, leveraging a Jekyll theme on the backend to handle the pretty bits. An elegant, simple to maintain (and cheap!) solution for a self hosted personal site - worth crediting the original template creators on the front page of my site. If you're comfortable with GitHub, don't mind editing in markdown language, and need something simple and functional that doesn't take up all your free time I can highly recommend Academic Pages.
+<!-- It is hosted in a GitHub Pages public repository which I forked from the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, leveraging a Jekyll theme on the backend to handle the pretty bits. An elegant, simple to maintain (and cheap!) solution for a self hosted personal site - worth crediting the original template creators on the front page of my site. If you're comfortable with GitHub, don't mind editing in markdown language, and need something simple and functional that doesn't take up all your free time I can highly recommend Academic Pages. -->
 
 If nothing else it is a convenient way for me to collate into one place materials and links to my disparate digital selves while taking ownership over the form that this content is presented in. In today's maze of social media walled gardens that's got to be worth something!
 
