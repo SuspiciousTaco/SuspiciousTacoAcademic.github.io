@@ -21,7 +21,7 @@ repository               : "SuspiciousTaco/SuspiciousTacoAcademic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "chase_profile.png"
+  avatar           : "chase_portrait.png"
   name             : "Quick Links"
   pronouns         : 
   bio              : "Education and Technology Leader"
