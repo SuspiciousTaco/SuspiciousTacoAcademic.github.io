@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋🏻Hi there!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+This website comprises my professional CV, portfolio, blog, and various other odds and ends. It is hosted in a GitHub Pages public repository which I forked from the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, leveraging a Jekyll theme on the backend to handle the pretty bits. An elegant, simple to maintain (and cheap!) solution for a self hosted personal site - worth crediting the original template creators on the front page of my site. If you're comfortable with GitHub, don't mind editing in markdown language, and need something simple and functional that doesn't take up all your free time I can highly recommend Academic Pages.
+
+If nothing else it is a convenient way for me to collate into one place materials and links to my disparate digital selves while taking ownership over the form that this content is presented in. In today's maze of social media walled gardens that's got to be worth something!
+
+This website is hosted in GitHub Pages leveraging a fork of the 
+
 
 A data-driven personal website
 ======
