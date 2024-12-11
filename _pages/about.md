@@ -26,7 +26,7 @@ Outside of and sometimes in parallel to my full-time professional duties I have 
 
 As of 2025 I am currently leading the online K-12 education division of the [Aoba International Education Group](https://aoba-bbt.com/), based in Tokyo, Japan. This work involves development of a 100% online school infrastructure to support the delivery of online International Baccalaureate (IB) curriculum and programs, notably the IB Diploma Programme as part of an innovative [pilot project](https://www.ibo.org/news/news-about-ib-schools/the-ib-introduces-the-first-online-diploma-programme-pilot-in-japan/) in cooperation with the International Baccalaureate Organisation (IBO).
 
-Synthesising the development of novel educational, technological, and operational approaches to online delivery of international K-12 educational programs, much of this ongoing work can be viewed online at [Aoba Global Campus](https://learn.aobajapan.jp), the Aoba
+Synthesising the development of novel educational, technological, and operational approaches to online delivery of international K-12 educational programs, much of this ongoing work can be viewed online at [Aoba Global Campus](https://learn.aobajapan.jp).
 
 
 <!-- Getting started
