@@ -29,7 +29,7 @@ As of 2025 I am currently leading the online K-12 education division of the [Aob
 Synthesising the development of novel educational, technological, and operational approaches to online delivery of international K-12 educational programs, much of this ongoing work can be viewed online at [Aoba Global Campus](https://learn.aobajapan.jp), the Aoba
 
 
-Getting started
+<!-- Getting started
 ======
 
 Site-wide configuration
@@ -50,4 +50,4 @@ How to edit your site's GitHub repository
 
 For more info
 ------
-
+ -->
