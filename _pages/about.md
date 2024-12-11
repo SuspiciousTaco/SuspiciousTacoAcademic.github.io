@@ -16,7 +16,7 @@ If nothing else it is a convenient way for me to collate into one place material
 
 
 
-About me
+ℹ️About me
 ======
 Originally from Southern California, I immigrated to Japan in 2013 and have called Tokyo my home ever since. While my academic beginnings were originally in the fields of International Relations and then Economics - with parallel studies in Japanese language - my actual career began in web technologies and web development before quickly transitioning to education technology. 
 
