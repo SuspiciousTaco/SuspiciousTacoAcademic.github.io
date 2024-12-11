@@ -7,11 +7,12 @@
 main:
   - title: "Publications"
     url: 
-<!--
+
   - title: "Talks"
     url: /talks/    
-
-  - title: "
+<!--
+  - title: #
+    url: #
     
   - title: ""
     url: 
